@@ -1,0 +1,101 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.conteudo{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 85px;
+    
+}
+.topleft{
+    width: 556px;
+    height: 352px;
+    margin-bottom: 196px;
+    margin-left: 414px;
+
+}
+.topleft h1{
+    width: 566px;
+    height: 77px;
+    margin-bottom: 41px;
+    font-weight: bolder;
+    letter-spacing: 1%;
+    line-height: auto;
+    font-size: 64px;
+    color: #333333;
+    font-family: "Lato", sans-serif;
+    margin-top: 85px;
+}
+.topleft p{
+    width: 566px;
+    height: 128px;
+    line-height: 32px;
+    font-size: 24px;
+    color: #333333;
+    text-align: start;
+    letter-spacing: 0%;
+    font-family: "Lato", sans-serif;
+    margin-bottom: 40px;
+    text-align: justify;
+    
+}
+
+.topleft button{
+margin-left: 172px;
+    color: white;
+    background-color: #333333;
+    width: 222px;
+    height: 66px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    font-family: "Lato", sans-serif;
+    line-height: 18px;
+    font-size: 22px;
+    
+}
+.topright{
+    display: flex;
+    flex-direction: column;
+    width: 151px;
+    height: 472px;
+    margin-top: 85px;
+    margin-left: 35px;
+    margin-bottom: 76px;
+    margin-right:344px ;
+}
+.topright img{
+    width: 148px;
+    height: 148px;
+    margin-bottom: 14px;
+}
+.imgs{
+    display: flex;
+    margin-bottom: 43px;
+    justify-content: center;
+
+}
+.imgs img{
+    width: 302px;
+    height: 348px;
+    border: 1px solid #333333;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.prato{
+    margin-left: 43px;
+    margin-right: 51px;
+}
+.rosquinhas1{
+    margin-left: 51px;
+    margin-right: 51px;
+}
+.rosquinhas2{
+    margin-right: 36px;
+}
